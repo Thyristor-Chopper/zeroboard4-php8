@@ -1,0 +1,42 @@
+body,td,textarea{font-family:굴림,verdana;font-size:9pt;color:#666666;line-height:150%}
+
+A:link {color:#666666;text-decoration:none}
+A:active {color:#666666;text-decoration:none}
+A:visited {color:#666666;text-decoration:none}
+A:hover {color:#cccccc;text-decoration:none}
+
+.t_setup{font-family:굴림;font-size:9pt;color:#666666}
+.t_notice{font-family:굴림;font-size:9pt;color:#6699ff}
+.t_list{font-family:굴림;font-size:9pt;color:#666666}
+.t_name{font-family:굴림;font-size:9pt;color:#666666}
+.t_date{font-family:tahoma;font-size:8pt;color:#666666}
+.t_num{font-family:tahoma;font-size:8pt;color:#666666}
+.t_bottom{font-family:굴림;font-size:9pt;color:#666666}
+.t_pagenum{font-family:굴림;font-size:8pt;color:#666666}
+.t_subject{font-family:굴림;font-size:9pt;font-weight:bold;color:#666666}
+.t_eng{font-family:tahoma;font-size:8pt;color:#666666}
+.t_han{font-family:굴림;font-size:8pt;color:#666666}
+.t_write{font-family:굴림;font-size:9pt;color:#666666}
+
+.bar1{width:100%;height:1px;background-color:#dddddd}
+.bar2{background-color:#dddddd}
+.listline{height:25px}
+.noticeline{height:25px;background-color:#f7f7f7}
+.search{border-color:#dddddd;border-width:1px;border-style:solid;background-color:#f7f7f7;width:150px;height:20px;font-family:굴림,verdana;font-size:9pt;color:#666666}
+.view1{background-color:#f7f7f7;padding:10 10 10 10}
+.view3{height:20px;background-color:transparent;padding:3 0 0 9;word-break:break-all}
+.view_main{word-break:break-all;padding:20 20 20 20;line-height:160%}
+.write_title{height:30px;background-color:#f7f7f7;border-width:1 0 1 0;border-style:solid;border-color:#dddddd}
+.category{height:25px;padding:3 0 0 20;background-color:#f7f7f7;font-family:굴림,verdana;font-size:9pt;color:#666666}
+
+.comment{font-family:굴림;font-size:8pt;color:#666666}
+.comment12{font-family:굴림;font-size:8pt;color:orange}
+.comment24{font-family:굴림;font-size:8pt;color:orange}
+
+.input{font-family:굴림;font-size:9pt;color:#666666;border-color:#dddddd;border-width:1px;border-style:solid;background-color:transparent}
+.input2{font-family:굴림;font-size:9pt;color:#666666;border-color:#dddddd;border-width:1px;border-style:solid;background-color:transparent}
+.textarea{font-family:굴림;font-size:9pt;color:#666666;border-color:#dddddd;border-width:1px;border-style:solid;background-color:transparent}
+.submit_c{font-family:굴림;font-size:9pt;color:#666666;border-color:#dddddd;border-width:1px;border-style:solid;background-color:#f7f7f7}
+.submit{font-family:굴림;font-size:9pt;color:#666666;border-color:#dddddd;border-width:1px;border-style:solid;background-color:#f7f7f7}
+
+.picture{border-color:#dddddd;border-width:1 1 1 1;border-style:solid}

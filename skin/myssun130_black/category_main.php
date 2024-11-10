@@ -1,0 +1,1 @@
+<?php $print_category_data = str_replace("<a", "<a onfocus=blur()",$print_category_data); ?>&nbsp;<?=$print_category_data?>&nbsp;
